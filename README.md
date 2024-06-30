@@ -1,4 +1,5 @@
 # Vue3 SPA starter 
+## Vue 3 SPA starter with pnpm, eslint, prettier, stylelint, commitLint, husky, element-plus
 
 This template should help get you started developing with Vue 3 in Vite.
 
